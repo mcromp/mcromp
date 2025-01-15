@@ -4,32 +4,17 @@ I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, l
 <br>outside of coding I enjoy the outdoors🌳, music🎹, and painting🖌️
 
 ## 🛠️ Skills
-### Programming Languages
-- JavaScript/TypeScript
-- Ruby
-- Python
-- HTML & CSS
-- SQL
-### Frameworks
-- NodeJS
-- ReactJS
-- Ruby on Rails
-
-### General
-- CD/CI
-- Architecture
-- RESTFul APIs
-- Observability
-- Cloud Computing
-- Databases (NoSQL and SQL)
-- Amazon Web Services (AWS)
-- Git (Version Control)
-- PostgreSQL
-- Databases (SQL and NoSQL)
-- RESTFul APIs
-- Software Architecture
-- Testing (TDD)
-- CD/CI
+| Programming Languages | Frameworks    | General                   |
+| --------------------- | ------------- | ------------------------- |
+| JavaScript            | NodeJS        | Amazon Web Services (AWS) |
+| Ruby                  | ReactJS       | RESTFul APIs              |
+| HTML                  | Ruby on Rails | Observability             |
+| CSS                   |               | Cloud Computing           |
+| SQL                   |               | Databases (NoSQL and SQL) |
+|                       |               | Git (Version Control)     |
+|                       |               | PostgreSQL                |
+|                       |               | Testing (TDD)             |
+|                       |               | CD/CI                     |
   
 ## 🌱 I’m currently learning:
   - Rust 🦀 & WASM 🟪 
