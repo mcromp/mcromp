@@ -16,7 +16,7 @@ I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, l
 |                       |               | Testing (TDD)             |
 |                       |               | CD/CI                     |
   
-## 🌱 I’m currently learning:
+## 🌱 Currently learning
   - Rust 🦀 & WASM 🟪 
   - Terraform 🛠️
   - Gleam-lang ⭐✨
