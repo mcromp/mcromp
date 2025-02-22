@@ -7,12 +7,12 @@ I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, l
 | Programming Languages | Frameworks    | General                   |
 | --------------------- | ------------- | ------------------------- |
 | JavaScript            | NodeJS        | Amazon Web Services (AWS) |
-| Ruby                  | ReactJS       | RESTFul APIs              |
+| Python                | ReactJS       | RESTFul APIs              |
 | HTML                  | Ruby on Rails | Observability             |
-| CSS                   |               | Cloud Computing           |
-| SQL                   |               | Databases (NoSQL and SQL) |
-|                       |               | Git (Version Control)     |
-|                       |               | PostgreSQL                |
+| CSS                   | Django        | Cloud Computing           |
+| SQL                   | AWS Lambda    | Databases (NoSQL and SQL) |
+| Ruby                  |               | Git (Version Control)     |
+| TypeScript            |               | PostgreSQL                |
 |                       |               | Testing (TDD)             |
 |                       |               | CD/CI                     |
   
