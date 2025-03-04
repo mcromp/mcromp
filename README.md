@@ -3,6 +3,10 @@ My name is Matthew. I'm a Full Stack Web Engineer / Generalist with about 5 year
 I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, learning, and working together to solve problems!✨
 <br>outside of coding I enjoy the outdoors🌳, music🎹, and painting🖌️
 
+## 📫 Contact
+<a href="crompton.dev@gmail.com">crompton.dev@gmail.com</a>
+<a href="https://www.linkedin.com/in/cromptondev/">linkedin.com/in/cromptondev</a>
+
 ## 🛠️ Skills
 | Programming Languages | Frameworks    | General                   |
 | --------------------- | ------------- | ------------------------- |
@@ -23,5 +27,4 @@ I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, l
   - Distributed Systems 🕸️
   - Data Oriented Design (DOD)
   - gamedev 🎮
-## 📫 Contact
-<a href="crompton.dev@gmail.com">crompton.dev@gmail.com</a>
+
