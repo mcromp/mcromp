@@ -1,5 +1,5 @@
 ## 👋 Thanks for stopping by!
-My name is Matthew. I'm a Full Stack Web Engineer / Generalist with 3 years of professional experience working at startups.<br>
+My name is Matthew. I'm a Full Stack Web Engineer / Generalist with experienced working at startups.<br>
 I'm a creative self-starter, forever learner. 🧑‍🎓 <br>I love creating, learning, and working together to solve problems!✨
 <br>outside of coding I enjoy the outdoors🌳, music🎹, and painting🖌️
 
